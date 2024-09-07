@@ -11,7 +11,7 @@ python run.py
 
 全套源码+模型部署+极验算法
 
-联系方式:
+在线接单，联系方式:
 QQ: 27788854
 wechat: taisuivip
 
