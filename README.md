@@ -14,8 +14,6 @@ python run.py
 ### 安卓逆向，JS逆向，图像识别，在线接单，QQ: 27788854，wechat: taisuivip
 ### [telegram: rtais00](https://t.me/rtais00)
 
-微信公众号
-![img.png](image/img.png)
 
 # 0x0. 前言
 ###### 分析验证码
