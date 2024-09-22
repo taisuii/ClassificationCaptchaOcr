@@ -9,11 +9,8 @@ python run.py
 
 文章地址：[https://blog.csdn.net/m0_56516039/article/details/141890708](https://blog.csdn.net/m0_56516039/article/details/141890708)
 
-全套源码+模型部署+极验算法
-
 ### 安卓逆向，JS逆向，图像识别，在线接单，QQ: 27788854，wechat: taisuivip
-### [telegram: rtais00](https://t.me/rtais00)
-
+### [telegram: rtais00](https://t.me/rtais00) 全套源码+模型部署+极验算法
 
 # 0x0. 前言
 ###### 分析验证码
