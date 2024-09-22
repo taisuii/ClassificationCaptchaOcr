@@ -11,9 +11,8 @@ python run.py
 
 全套源码+模型部署+极验算法
 
-# 安卓逆向，JS逆向，图像识别，在线接单，联系方式:
-# QQ: 27788854
-# wechat: taisuivip
+### 安卓逆向，JS逆向，图像识别，在线接单，QQ: 27788854，wechat: taisuivip
+### [[https://blog.csdn.net/m0_56516039/article/details/141890708](https://t.me/rtais00)
 
 微信公众号
 ![img.png](image/img.png)
